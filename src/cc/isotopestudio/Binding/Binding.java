@@ -3,8 +3,6 @@ package cc.isotopestudio.Binding;
 import org.bukkit.ChatColor;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import java.io.File;
-
 /**
  * Created by Mars on 6/13/2016.
  * Copyright ISOTOPE Studio

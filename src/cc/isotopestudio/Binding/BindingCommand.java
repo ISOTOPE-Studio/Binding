@@ -11,7 +11,7 @@ import org.bukkit.inventory.ItemStack;
  * Created by Mars on 6/13/2016.
  * Copyright ISOTOPE Studio
  */
-public class BindingCommand implements CommandExecutor {
+class BindingCommand implements CommandExecutor {
 
     @Override
     public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {

@@ -13,7 +13,7 @@ import java.util.List;
  */
 class ItemUtil {
 
-    private static String key = S.toRed("权限: ");
+    private static final String key = S.toRed("权限: ");
 
     static ItemStack addPerm(ItemStack item, String perm) {
         ItemMeta meta = item.getItemMeta();

@@ -1,0 +1,11 @@
+name: Binding
+main: cc.isotopestudio.Binding.Binding
+
+author: Mars
+description: Binding
+website: http://isotopestudio.cc
+version: 1.0.0
+commands:
+  Binding:
+    description: Binding Admin command
+    usage: /<command> - Get Information
